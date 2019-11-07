@@ -5,7 +5,7 @@
 ?>
 
 <!-- sidebar.php -->
-<!-- Written by, Sohail Qayum Malik[sqm@hackers.pk] -->
+<!-- Written by, Sohail Qayum Malik -->
 
 <?php /* This should be an option of the admin menu */ ?>
 <?php $exclude_cats = '1,5,7,23'; ?>

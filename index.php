@@ -1,5 +1,5 @@
 ﻿<!-- index.php -->
-<!-- Written by, Sohail Qayum Malik[sqm@hackers.pk] -->  
+<!-- Written by, Sohail Qayum Malik -->  
 
 <?php
  

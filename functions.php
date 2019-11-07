@@ -1,7 +1,7 @@
 ﻿<?php
 
 /* functions.php, a plugin code */
-/* Written by, Sohail Qayum Malik[sqm@hackers.pk] */
+/* Written by, Sohail Qayum Malik */
 
    /* Tell WordPress to run cyberian_setup() when the 'after_setup_theme' hook is run */
    add_action( 'after_setup_theme', 'cyberian_setup' );

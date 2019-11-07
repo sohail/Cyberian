@@ -1,5 +1,5 @@
 // search_box_focus.js
-// Written by, sqm@hackers.pk
+// Written by, Sohail Qayum Malik
 
 jQuery( document ).ready( function() {
 
